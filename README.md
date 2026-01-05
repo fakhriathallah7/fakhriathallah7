@@ -2,6 +2,8 @@
 
 > _" There's no hiding, not for you, not for me. "_
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fakhriathallah7&show_icons=true&theme=dark)
+
 ### 🔭 **I’m currently working on**
 - building on new innovative projects, like **Eyeofrah** , a safety surveilance system for environmental defence.
 
